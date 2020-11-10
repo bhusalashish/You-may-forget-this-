@@ -1,7 +1,7 @@
 
 typedef pair<int, int> pi;
 
-#For MIN_Heap
+//For MIN_Heap
 class comp{
   public:
     bool operator ()(pi &a, pi &b){
